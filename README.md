@@ -1,4 +1,4 @@
-# riskreward-pro
+# RiskReward Pro
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,115 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-riskreward-pro is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://riskreward.pro/
+RiskReward Pro provides a free crypto futures trading journal that helps traders plan fee‑aware position sizes, journal trades, and review net R. It offers risk‑first position sizing, AI‑powered analysis, and tools for disciplined futures trading without any subscription required.
+
+**Areas:** Finance · Crypto · Trading · Risk Management · Journal
+
+## RiskReward Pro on APIs.io
+
+Everything profiled for RiskReward Pro is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/riskreward-pro/](https://apis.io/providers/riskreward-pro/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [RiskReward Pro Performance API](https://apis.io/apis/riskreward-pro/riskreward-pro-performance-api/) — The Performance API from RiskReward Pro — 1 operation(s) for performance.
+- [RiskReward Pro Position Size API](https://apis.io/apis/riskreward-pro/riskreward-pro-position-size-api/) — The Position Size API from RiskReward Pro — 1 operation(s) for position size.
+- [RiskReward Pro Risk Reward API](https://apis.io/apis/riskreward-pro/riskreward-pro-risk-reward-api/) — The Risk Reward API from RiskReward Pro — 1 operation(s) for risk reward.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [RiskReward Pro Agentic Access](https://apis.io/agentic-access/riskreward-pro/riskreward-pro-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [RiskReward Pro API Rules](https://apis.io/rules/riskreward-pro/riskreward-pro-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [RiskReward Pro Domain Security](https://apis.io/security/riskreward-pro/riskreward-pro-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [RiskReward Pro Plans Pricing](https://apis.io/plans/riskreward-pro/riskreward-pro-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://riskreward.pro/)
+- [Documentation](https://riskreward.pro/openapi.json)
+- [Getting started](https://riskreward.pro/developers/mcp)
+- [API reference](https://riskreward.pro/developers)
+- [Pricing](https://riskreward.pro/pricing)
+- [Support](https://riskreward.pro/support)
+- [Blog](https://riskreward.pro/blog)
+- [Trust centre](https://riskreward.pro/trust)
+- [Terms of service](https://riskreward.pro/terms)
+- [Privacy policy](https://riskreward.pro/privacy)
+
+## API Evangelist rating
+
+**Kin Score 47.2** — developing · rubric 0.27.0 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 46.5 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 42.1 |
+| Access clarity | 58.4 |
+
+**Agent readiness 39.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 27.8** — Securities & Market Data
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/riskreward-pro/](https://apis.io/providers/riskreward-pro/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for RiskReward Pro: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/riskreward-pro/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
